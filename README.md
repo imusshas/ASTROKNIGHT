@@ -8,8 +8,8 @@ astronaut, including their dietary habits, mental growth,
 physical fitness, and knowledge about space.
 
 In today's technology-driven world, it's hard to imagine a
-day without screens and devices. Children spend hours
-on smartphones, addicted to games and social media,
+day without devices. Children spend hours
+on smartphones, by getting addicted to games and social media,
 which can hinder their mental development. With
 **"ASTROKNIGHT,"** we aim to create a fun and educational
 experience, allowing children to learn by gameplay.
@@ -26,7 +26,7 @@ explorers and make learning about space a thrilling and
 educational experience.
 
 ## Let's dive into the game
-In the section below some demo levels of the game are provided.
+Some demo leves of this game are provided here in the section below.
 
 ### Level 1: Physical Fitness
 At this level, children learn about the physical
@@ -52,23 +52,22 @@ order.
 
 ### Level 3: Survive
 This level offers an exciting challenge in the form of a
-maze. It is implemented with the feature play and learn.
+maze. It is implemented with the feature "play and learn".
 Children must navigate the maze and select the
 appropriate food items for an astronaut.
 
 ### Level 4: Solar System
 At this level, children learn about the solar system. They
 must carefully observe the orientation of the planets and
-place them in their correct positions. Additionally, they'll
-identify the largest and smallest planets in the solar
-system.
+place them in their corresponding correct positions. Additionally, 
+they'll learn to identify the largest and smallest planets in the solar system.
 
 ## Conclusion
 
 Likewise the demos given here, **ASTROKNIGHT** is
-implemented with features like first learn and then play
-as well as learn with play. **ASTROKNIGHT** believes that
+implemented with features like "first learn and then play"
+as well as "learning by playing". **ASTROKNIGHT** believes that
 if interest in astronomy can be created from childhood
 then more involvement is possible which is highly
-needed. **ASTROKNIGHT** covers today’s most demanding
+needed and expected as well. **ASTROKNIGHT** covers today’s most demanding
 teaching skill which is interactive learning.
