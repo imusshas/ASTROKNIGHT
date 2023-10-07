@@ -1,6 +1,6 @@
 # ASTROKNIGHT
 
-Our team **Nebula Nexus** is excited to introduce you to **"ASTROKNIGHT,"** a kids' game designed to inspire
+**ASTROKNIGHT** is a kids' game designed to inspire
 children on their journey of becoming astronauts. This
 game aims to educate and motivate kids by providing
 valuable insights into various aspects of becoming an
