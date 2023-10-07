@@ -40,11 +40,10 @@ it a match? Yes or No?
 In the second stage of this level, children assess their
 lung capacity by attempting to hold their breath for 15
 seconds. This activity is not meant to be serious but
-rather to inspire children to focus on their lung health
-and fitness.
+rather to inspire children to focus on their respiratory system's fitness.
 
 ### Level 2: Suit Up
-Named "Suit Up," this level introduces children to the
+Named as "Suit Up," this level introduces children to the
 components of a space suit. Their task is to assemble
 the suit correctly by placing the helmet, lower torso,
 upper hand torso, and life support torso in the right
